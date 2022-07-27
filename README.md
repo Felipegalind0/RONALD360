@@ -1,6 +1,6 @@
 # RONALD
 
-###### READMEv4.5
+###### READMEv1.0
 
 An open source, cheap, 4-mecanum-wheel robot capable of swiftly navigating very flat surfaces through teleoperation or self-guidance using the onboard AI camera. 
 
