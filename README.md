@@ -2,10 +2,11 @@
 
 ###### READMEv1.0
 
-An open source, cheap, 4-mecanum-wheel robot capable of swiftly navigating very flat surfaces through teleoperation via a 360 camera.
-It consists of a [M5 RoverC](https://shop.m5stack.com/collections/m5-hobby/products/roverc-prow-o-m5stickc), and a [Insta360 X3](https://www.insta360.com/product/insta360-x3) connected via a 3D Printed Carbon Fiber Reinforced Mount
 
 * [Overview](#Overview)
+
+An open source, cheap, 4-mecanum-wheel robot capable of swiftly navigating very flat surfaces through teleoperation via a 360 camera.
+It consists of a [M5 RoverC](https://shop.m5stack.com/collections/m5-hobby/products/roverc-prow-o-m5stickc), and a [Insta360 X3](https://www.insta360.com/product/insta360-x3) connected via a 3D Printed Carbon Fiber Reinforced Mount
 
 * [Hardware](#Hardware)
 
