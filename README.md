@@ -25,10 +25,21 @@ No modifications are necessary to the Insta 360 in order to make it stream, you 
 
 
 ### [Software](#Software)
-This software was witten in Python with [UIFlow](https://flow.m5stack.com) a microPython IDE that allows you to wirelessly upload your code to your [M5 StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit). You may need to flash [UIFlow](https://flow.m5stack.com) to your [M5 StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit)
+This software was witten in Python with [UIFlow](https://flow.m5stack.com) a microPython IDE that allows you to wirelessly upload your code to your [M5 StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit). You may need to flash [UIFlow](https://flow.m5stack.com) to your [StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit)
 
 ### [Usage](#Usage)
 
+#### To Start Robot:
+1. Place [StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit) into the [RoverC](https://shop.m5stack.com/collections/m5-hobby/products/roverc-prow-o-m5stickc) and [JoyC](https://shop.m5stack.com/products/joyc-w-o-m5stickc)
+2. Place Battery Into [JoyC](https://shop.m5stack.com/products/joyc-w-o-m5stickc)
+3. Slide switch on the [RoverC](https://shop.m5stack.com/collections/m5-hobby/products/roverc-prow-o-m5stickc) & [JoyC](https://shop.m5stack.com/products/joyc-w-o-m5stickc) to ON Position
+4. Connect 18650 to [StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit)
+5. Start [StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit) if it had not already
+ 
+#### Controls:
+**R JoyStick:**
+X: +(up)FWD/BACK(down)-
+Y:   L(-)  /   R(+)
 
 
 
