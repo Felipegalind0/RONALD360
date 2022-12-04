@@ -22,8 +22,8 @@ No modifications are necessary to the Insta 360 in order to make it stream, you 
 
 * [Software](#Software)
 	* [Software Checkout and Setup With UIFlow](#Software-Checkout-and-Setup-UIFlow)
-	- Go to [UIFlow](https://flow.m5stack.com), enter the API Key from your [M5 StickC +](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit) and upload the .m5f File. You may alternatively copy the code from the .py file into the python window.
-	- Upload to your [M5 StickC +](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit
+	- Go to [UIFlow](https://flow.m5stack.com), enter the API Key from your [M5 StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit) and upload the .m5f File. You may alternatively copy the code from the .py file into the python window.
+	- Upload to your [M5 StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit)
 	* [Software Checkout and Setup With Micropython](#Software-Checkout-and-Setup-mPython)
 	TODO
 	
