@@ -9,6 +9,7 @@ An open source, cheap, 4-mecanum-wheel robot capable of swiftly navigating very 
 It consists of a [M5 RoverC](https://shop.m5stack.com/collections/m5-hobby/products/roverc-prow-o-m5stickc), and a [Insta360 X3](https://www.insta360.com/product/insta360-x3) connected via a 3D Printed Carbon Fiber Reinforced Mount
 
 * [Hardware](#Hardware)
+
 No modifications are necessary to the Insta 360 in order to make it stream, you just need to make sure that you have the Insta360 Installed, Updated and paired with your camera. You are also able to use An Insta360 One X2 Instead of an X3 and everything should work just as well.
 
 ** *Limitations of the mechanum wheel system:* ** 
@@ -18,8 +19,14 @@ No modifications are necessary to the Insta 360 in order to make it stream, you 
 - The gearbox is exposed and down low, if stuff gets inside of it you're F***.
 
 
+
 * [Software](#Software)
-	* [Software Checkout and Setup](#Software-Checkout-and-Setup)
+	* [Software Checkout and Setup With UIFlow](#Software-Checkout-and-Setup-UIFlow)
+	- Go to [UIFlow](https://flow.m5stack.com), enter the API Key from your [M5 StickC +](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit) and upload the .m5f File. You may alternatively copy the code from the .py file into the python window.
+	- Upload to your [M5 StickC +](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit
+	* [Software Checkout and Setup With Micropython](#Software-Checkout-and-Setup-mPython)
+	TODO
+	
 
 * [Additional Project Components & Tecniques](#additional-project-components-&-Tecniques)
     * [ESP-NOW](#ESP-NOW)
