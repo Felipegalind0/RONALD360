@@ -37,8 +37,11 @@ This software was witten in Python with [UIFlow](https://flow.m5stack.com) a mic
 5. Start [StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit) if it had not already
  
 #### Controls:
+
 **R JoyStick:**
+
 X: +(up)FWD/BACK(down)-
+
 Y:   L(-)  /   R(+)
 
 
