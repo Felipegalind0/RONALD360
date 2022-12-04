@@ -18,7 +18,7 @@ No modifications are necessary to the Insta 360 in order to make it stream, you 
 - You need a fair bit of torque to get moving, about 10% actuation to start moving, below that you just get coil whine
 - The gearbox is exposed and down low, if stuff gets inside of it you're F***
 
-#### ** *Known Issues:* ** 
+#### **Known Issues:** 
 - The center of Mass is too high. 
 - The camera lens is exposed and could be scratched. I'm not responsible for any damage to your hardware!
 - Servo conection tend to come lose, Servo cable is too long 
