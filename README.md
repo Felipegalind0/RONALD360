@@ -35,6 +35,7 @@ No modifications are necessary to the Insta 360 in order to make it stream, you 
     * [ESP-NOW](#ESP-NOW)
 
 * [Future Work](#future-work)
+
 - Figure out a way to record and live stream at the same time in 360.
 - Integrate robot with a VR Headset app to control robot and view 360 feed like a videogame. 
 
