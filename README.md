@@ -9,7 +9,6 @@ An open source, cheap, 4-mecanum-wheel robot capable of swiftly navigating very 
 It consists of a [M5 RoverC](https://shop.m5stack.com/collections/m5-hobby/products/roverc-prow-o-m5stickc), and a [Insta360 X3](https://www.insta360.com/product/insta360-x3) connected via a 3D Printed Carbon Fiber Reinforced Mount
 
 ### [Hardware](#Hardware)
-
 No modifications are necessary to the Insta 360 in order to make it stream, you just need to make sure that you have the Insta360 Installed, Updated and paired with your camera. You are also able to use An Insta360 One X2 Instead of an X3 and everything should work just as well.
 
 #### **Limitations of the mechanum wheel system:**
@@ -22,6 +21,7 @@ No modifications are necessary to the Insta 360 in order to make it stream, you 
 #### ** *Known Issues:* ** 
 - The center of Mass is too high. 
 - The camera lens is exposed and could be scratched. I'm not responsible for any damage to your hardware!
+- Servo conection tend to come lose, Servo cable is too long 
 
 
 ### [Software](#Software)
