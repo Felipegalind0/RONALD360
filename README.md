@@ -40,9 +40,9 @@ This software was witten in Python with [UIFlow](https://flow.m5stack.com) a mic
 
 * **R JoyStick:**
 
-	* X: +(L)COUNTERCWSE/CLCKWSE(R)-
+	* X: +(L)COUNTERCWSE/CLCKWSE(R)-*(Rotation)*
 
-	* Y: L(-)/R(+) *(Rotation)*
+	* Y: Servo
 
 * **L JoyStick:**
 
