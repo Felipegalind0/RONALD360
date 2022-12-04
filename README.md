@@ -33,10 +33,11 @@ This software was witten in Python with [UIFlow](https://flow.m5stack.com) a mic
 
 
 #### [Software Checkout and Setup With UIFlow](#Software-Checkout-and-Setup-UIFlow)
-	
+
+** * You will need to do this both on the robot's and remote's [M5 StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit) ** *
 - Open [UIFlow](https://flow.m5stack.com) on a browser or download the program, enter the API Key from your [M5 StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit) and upload the .m5f File. You may alternatively copy the code from the .py file into the python window.
 - Upload to your [M5 StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit)
-- ** * You will need to do this both on the robot's and remote's [M5 StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit) ** *
+
 	
 #### [Software Checkout and Setup With Micropython](#Software-Checkout-and-Setup-mPython)
 	TODO
