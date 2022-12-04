@@ -40,10 +40,15 @@ This software was witten in Python with [UIFlow](https://flow.m5stack.com) a mic
 
 * **R JoyStick:**
 
-	* X: +(up)FWD/BACK(down)-
+	* X: +(L)COUNTERCWSE/CLCKWSE(R)-
 
-	* Y:   L(-)  /   R(+)
+	* Y: L(-)/R(+)
 
+* **L JoyStick:**
+
+	* X: L(-)/R(+)
+
+	* Y: +(up)FWD/BACK(down)-
 
 
 #### [Software Checkout and Setup With UIFlow](#Software-Checkout-and-Setup-UIFlow)
