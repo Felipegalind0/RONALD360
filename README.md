@@ -15,7 +15,7 @@ No modifications are necessary to the Insta 360 in order to make it stream, you 
 ** *Limitations of the mechanum wheel system:* ** 
 - Due to the high-ratio gearbox needed to drive a mechanum wheel system with small motors the robot stop really quickly, and specially quickly when going sideways. This can result in the robot tipping over. Be carefull. 
 - Leaves, hair and other undesireables will make their way into the inside of your mechanum wheel of you drive over them, specialy if not going straight or backwards. Don't drive over things that can tangle the wheels.
-- You need a fair bit of torque to get moving, about %10 actuation to start moving, below that you just get coil whine
+- You need a fair bit of torque to get moving, about 10% actuation to start moving, below that you just get coil whine
 - The gearbox is exposed and down low, if stuff gets inside of it you're F***.
 
 
@@ -32,6 +32,8 @@ No modifications are necessary to the Insta 360 in order to make it stream, you 
     * [ESP-NOW](#ESP-NOW)
 
 * [Future Work](#future-work)
+- Figure out a way to record and live stream at the same time in 360.
+- Integrate robot with a VR Headset app to control robot and view 360 feed like a videogame. 
 
 * [External Links](#external-links)
 
