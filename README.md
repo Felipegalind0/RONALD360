@@ -19,7 +19,13 @@ No modifications are necessary to the Insta 360 in order to make it stream, you 
 - You need a fair bit of torque to get moving, about 10% actuation to start moving, below that you just get coil whine
 - The gearbox is exposed and down low, if stuff gets inside of it you're F***
 
+#### ** *Known Issues:* ** 
+- The center of Mass is too high. 
+- The camera lens is exposed and could be scratched. I'm not responsible for any damage to your hardware!
+
+
 ### [Software](#Software)
+This software was witten in Python with [UIFlow](https://flow.m5stack.com) a microPython IDE that allows you to wirelessly upload your code to your [M5 StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit). You may need to flash [UIFlow](https://flow.m5stack.com) to your [M5 StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit)
 
 #### [Software Checkout and Setup With UIFlow](#Software-Checkout-and-Setup-UIFlow)
 	
