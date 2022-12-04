@@ -13,10 +13,10 @@ It consists of a [M5 RoverC](https://shop.m5stack.com/collections/m5-hobby/produ
 No modifications are necessary to the Insta 360 in order to make it stream, you just need to make sure that you have the Insta360 Installed, Updated and paired with your camera. You are also able to use An Insta360 One X2 Instead of an X3 and everything should work just as well.
 
 ** *Limitations of the mechanum wheel system:* ** 
-- Due to the high-ratio gearbox needed to drive a mechanum wheel system with small motors the robot stop really quickly, and specially quickly when going sideways. This can result in the robot tipping over. Be carefull. 
-- Leaves, hair and other undesireables will make their way into the inside of your mechanum wheel of you drive over them, specialy if not going straight or backwards. Don't drive over things that can tangle the wheels.
-- You need a fair bit of torque to get moving, about 10% actuation to start moving, below that you just get coil whine
-- The gearbox is exposed and down low, if stuff gets inside of it you're F***.
+1. Due to the high-ratio gearbox needed to drive a mechanum wheel system with small motors the robot stop really quickly, and specially quickly when going sideways. This can result in the robot tipping over. Be carefull. 
+2. Leaves, hair and other undesireables will make their way into the inside of your mechanum wheel of you drive over them, specialy if not going straight or backwards. Don't drive over things that can tangle the wheels.
+3. You need a fair bit of torque to get moving, about 10% actuation to start moving, below that you just get coil whine
+4. The gearbox is exposed and down low, if stuff gets inside of it you're F***.
 
 ---
 
