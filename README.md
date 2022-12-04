@@ -14,26 +14,24 @@ No modifications are necessary to the Insta 360 in order to make it stream, you 
 
 #### ** *Limitations of the mechanum wheel system:* ** 
 
-	- Due to the high-ratio gearbox needed to drive a mechanum wheel system with small motors the robot stop really quickly, and specially quickly when going sideways. This can result in the robot tipping over. Be carefull. 
-	- Leaves, hair and other undesireables will make their way into the inside of your mechanum wheel of you drive over them, specialy if not going straight or backwards. Don't drive over things that can tangle the wheels.
-	- You need a fair bit of torque to get moving, about 10% actuation to start moving, below that you just get coil whine
-	- The gearbox is exposed and down low, if stuff gets inside of it you're F***.
-
-
+- Due to the high-ratio gearbox needed to drive a mechanum wheel system with small motors the robot stop really quickly, and specially quickly when going sideways. This can result in the robot tipping over. Be carefull. 
+- Leaves, hair and other undesireables will make their way into the inside of your mechanum wheel of you drive over them, specialy if not going straight or backwards. Don't drive over things that can tangle the wheels.
+- You need a fair bit of torque to get moving, about 10% actuation to start moving, below that you just get coil whine
+- The gearbox is exposed and down low, if stuff gets inside of it you're F***
 
 ### [Software](#Software)
 
 #### [Software Checkout and Setup With UIFlow](#Software-Checkout-and-Setup-UIFlow)
 	
-	- Go to [UIFlow](https://flow.m5stack.com), enter the API Key from your [M5 StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit) and upload the .m5f File. You may alternatively copy the code from the .py file into the python window.
-	- Upload to your [M5 StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit)
+- Go to [UIFlow](https://flow.m5stack.com), enter the API Key from your [M5 StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit) and upload the .m5f File. You may alternatively copy the code from the .py file into the python window.
+- Upload to your [M5 StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit)
 	
 #### [Software Checkout and Setup With Micropython](#Software-Checkout-and-Setup-mPython)
-	* 
 	TODO
 	
 ### [Additional Project Components & Tecniques](#additional-project-components-&-Tecniques)
-    * [ESP-NOW](#ESP-NOW)
+
+#### [ESP-NOW](#ESP-NOW)
 
 ### [Future Work](#future-work)
 
