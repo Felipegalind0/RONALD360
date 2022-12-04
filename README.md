@@ -38,11 +38,11 @@ This software was witten in Python with [UIFlow](https://flow.m5stack.com) a mic
  
 #### Controls:
 
-**R JoyStick:**
+* **R JoyStick:**
 
-X: +(up)FWD/BACK(down)-
+	* X: +(up)FWD/BACK(down)-
 
-Y:   L(-)  /   R(+)
+	* Y:   L(-)  /   R(+)
 
 
 
