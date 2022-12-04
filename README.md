@@ -26,6 +26,7 @@ No modifications are necessary to the Insta 360 in order to make it stream, you 
 	- Upload to your [M5 StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit)
 	
 	* [Software Checkout and Setup With Micropython](#Software-Checkout-and-Setup-mPython)
+	* 
 	TODO
 	
 
@@ -36,7 +37,6 @@ No modifications are necessary to the Insta 360 in order to make it stream, you 
 - Figure out a way to record and live stream at the same time in 360.
 - Integrate robot with a VR Headset app to control robot and view 360 feed like a videogame. 
 
-* [External Links](#external-links)
 
 * [Archive](#Archive)
 
