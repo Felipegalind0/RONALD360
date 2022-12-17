@@ -33,6 +33,9 @@ This software was witten in Python with [UIFlow](https://flow.m5stack.com) a mic
 
 ### [Usage](#Usage)
 
+## 360 Livestreaming & Recording
+![Env](Images/WED.gif) 
+
 #### To Start Robot:
 1. Place [StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit) into the [RoverC](https://shop.m5stack.com/collections/m5-hobby/products/roverc-prow-o-m5stickc) and [JoyC](https://shop.m5stack.com/products/joyc-w-o-m5stickc)
 2. Place Battery Into [JoyC](https://shop.m5stack.com/products/joyc-w-o-m5stickc)
