@@ -11,6 +11,7 @@ It consists of a [M5 RoverC](https://shop.m5stack.com/collections/m5-hobby/produ
 
 ## About
 ![Env](Images/RONALD_CAD.gif) 
+![Env](Images/roll.gif) 
 
 ### [Hardware](#Hardware)
 No modifications are necessary to the Insta 360 in order to make it stream, you just need to make sure that you have the Insta360 Installed, Updated and paired with your camera. You are also able to use An Insta360 One X2 Instead of an X3 and everything should work just as well.
