@@ -8,6 +8,10 @@
 An open source, cheap, 4-mecanum-wheel robot capable of swiftly navigating very flat surfaces through teleoperation via a 360 camera.
 It consists of a [M5 RoverC](https://shop.m5stack.com/collections/m5-hobby/products/roverc-prow-o-m5stickc), and a [Insta360 X3](https://www.insta360.com/product/insta360-x3) connected via a 3D Printed Carbon Fiber Reinforced Mount
 
+
+## About
+![Env](Images/RONALD_CAD.gif) 
+
 ### [Hardware](#Hardware)
 No modifications are necessary to the Insta 360 in order to make it stream, you just need to make sure that you have the Insta360 Installed, Updated and paired with your camera. You are also able to use An Insta360 One X2 Instead of an X3 and everything should work just as well.
 
