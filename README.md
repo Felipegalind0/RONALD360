@@ -19,7 +19,7 @@ It consists of a [M5 RoverC](https://shop.m5stack.com/collections/m5-hobby/produ
 * [Usage](#Usage)
 * [360 Livestreaming and Recording](#360-Livestreaming-and-Recording)
 * [Controls](#Controls)
-* [Software Checkout and Setup With UIFlow](#Software-Checkout-and-Setup-UIFlow)
+* [Software Checkout and Setup with UIFlow](#Software-Checkout-and-Setup-with-UIFlow)
 * [Additional Project Components](#additional-project-components)
 * [Future Work](#future-work)
 * [External Links](#external-links)
@@ -73,7 +73,7 @@ This software was witten in Python with [UIFlow](https://flow.m5stack.com) a mic
 	* Y: +(up)FWD/BACK(down)-
 
 
-#### [Software Checkout and Setup With UIFlow](#Software-Checkout-and-Setup-UIFlow)
+#### [Software Checkout and Setup with UIFlow](#Software-Checkout-and-Setup-with-UIFlow)
 
 **You will need to do this both on the robot's and remote's [M5 StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit)**
 - Open [UIFlow](https://flow.m5stack.com) on a browser or download the program, enter the API Key from your [M5 StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit) and upload the .m5f File. You may alternatively copy the code from the .py file into the python window.
