@@ -17,7 +17,7 @@ It consists of a [M5 RoverC](https://shop.m5stack.com/collections/m5-hobby/produ
 * [Hardware](#Hardware)
 * [Software](#Software)
 * [Usage](#Usage)
-* [360 Livestreaming & Recording](#360-Livestreaming-Recording)
+* [360 Livestreaming and Recording](#360-Livestreaming-and-Recording)
 * [Controls](#Controls)
 * [Software Checkout and Setup With UIFlow](#Software-Checkout-and-Setup-UIFlow)
 * [Additional Project Components](#additional-project-components)
@@ -48,7 +48,7 @@ This software was witten in Python with [UIFlow](https://flow.m5stack.com) a mic
 
 ### [Usage](#Usage)
 
-## [360 Livestreaming & Recording](#360-Livestreaming-Recording)
+## [360 Livestreaming and Recording](#360-Livestreaming-and-Recording)
 ![Env](Gifs/WED.gif) 
 
 #### To Start Robot:
