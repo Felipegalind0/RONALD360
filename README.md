@@ -9,7 +9,7 @@ An open source, cheap, 4-mecanum-wheel robot capable of swiftly navigating very 
 It consists of a [M5 RoverC](https://shop.m5stack.com/collections/m5-hobby/products/roverc-prow-o-m5stickc), and a [Insta360 X3](https://www.insta360.com/product/insta360-x3) connected via a 3D Printed Carbon Fiber Reinforced Mount
 
 [![Env](Gifs/RONALD360.gif)](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)\
-[RONALD360](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)
+[RONALD360 3D Model](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)
 ![Env](Images/RONALD_CAD.gif) 
 ![Env](Images/roll.gif) 
 
