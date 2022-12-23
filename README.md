@@ -48,7 +48,7 @@ This software was witten in Python with [UIFlow](https://flow.m5stack.com) a mic
 
 ### [Usage](#Usage)
 
-## [360 Livestreaming & Recording](#360-Livestreaming-&-Recording)
+## 360 Livestreaming & Recording
 ![Env](Gifs/WED.gif) 
 
 #### To Start Robot:
