@@ -10,8 +10,8 @@ It consists of a [M5 RoverC](https://shop.m5stack.com/collections/m5-hobby/produ
 
 [![Env](Gifs/RONALD360.gif)](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)\
 [RONALD360 3D Model](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)
-![Env](Images/RONALD_CAD.gif) 
-![Env](Images/roll.gif) 
+![Env](Gifs/RONALD_CAD.gif) 
+![Env](Gifs/roll.gif) 
 
 ### [Hardware](#Hardware)
 No modifications are necessary to the Insta 360 in order to make it stream, you just need to make sure that you have the Insta360 App Installed, Updated and paired with your camera. You are also able to use An Insta360 One X2 Instead of an X3 and everything should work just as well.
@@ -35,7 +35,7 @@ This software was witten in Python with [UIFlow](https://flow.m5stack.com) a mic
 ### [Usage](#Usage)
 
 ## [360 Livestreaming & Recording](#360-Livestreaming-&-Recording)
-![Env](Images/WED.gif) 
+![Env](Gifs/WED.gif) 
 
 #### To Start Robot:
 1. Place [StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit) into the [RoverC](https://shop.m5stack.com/collections/m5-hobby/products/roverc-prow-o-m5stickc) and [JoyC](https://shop.m5stack.com/products/joyc-w-o-m5stickc)
