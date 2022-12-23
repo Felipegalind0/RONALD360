@@ -13,6 +13,20 @@ It consists of a [M5 RoverC](https://shop.m5stack.com/collections/m5-hobby/produ
 ![Env](Gifs/RONALD_CAD.gif) 
 ![Env](Gifs/roll.gif) 
 
+* [Overview](#Overview)
+* [Hardware](#Hardware)
+* [Software](#Software)
+* [Usage](#Usage)
+* [360 Livestreaming & Recording](#360-Livestreaming-&-Recording)
+* [Controls](#Controls)
+* [Software Checkout and Setup With UIFlow](#Software-Checkout-and-Setup-UIFlow)
+* [Additional Project Components](#additional-project-components)
+* [Future Work](#future-work)
+* [External Links](#external-links)
+* [Archive](#Archive)
+
+
+
 ### [Hardware](#Hardware)
 No modifications are necessary to the Insta 360 in order to make it stream, you just need to make sure that you have the Insta360 App Installed, Updated and paired with your camera. You are also able to use An Insta360 One X2 Instead of an X3 and everything should work just as well.
 
@@ -44,7 +58,7 @@ This software was witten in Python with [UIFlow](https://flow.m5stack.com) a mic
 4. Connect 18650 to [StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit)
 5. Start [StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit) if it had not already
  
-#### Controls:
+### [Controls](#Controls)
 
 * **R JoyStick:**
 
@@ -78,6 +92,7 @@ This software was witten in Python with [UIFlow](https://flow.m5stack.com) a mic
 - Figure out a way to record and live stream at the same time in 360.
 - Integrate robot with a VR Headset app to control robot and view 360 feed like a videogame. 
 
+### [External Links](#external-links)
 
 ### [Archive](#Archive)
 
