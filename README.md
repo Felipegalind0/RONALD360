@@ -19,8 +19,11 @@ It consists of a [M5 RoverC](https://shop.m5stack.com/collections/m5-hobby/produ
 * [Usage](#Usage)
 * [360 Livestreaming and Recording](#360-Livestreaming-and-Recording)
 * [Controls](#Controls)
+* [CAD Model and 3D Printing](#Controls)
+* [Assembly](#Assembly)
 * [Software Checkout and Setup with UIFlow](#Software-Checkout-and-Setup-with-UIFlow)
-* [Additional Project Components](#additional-project-components)
+* [Software Checkout and Setup with Micropython](#Software-Checkout-and-Setup-with-Micropython)
+* [Additional Project Components and Tecniques](#additional-project-components-and-Tecniques)
 * [Future Work](#future-work)
 * [External Links](#external-links)
 * [Archive](#Archive)
@@ -72,6 +75,12 @@ This software was witten in Python with [UIFlow](https://flow.m5stack.com) a mic
 
 	* Y: +(up)FWD/BACK(down)-
 
+	
+#### [CAD Model and 3D Printing](#Controls)
+	TODO
+
+#### [Assembly](#Assembly)
+	TODO
 
 #### [Software Checkout and Setup with UIFlow](#Software-Checkout-and-Setup-with-UIFlow)
 
@@ -80,10 +89,10 @@ This software was witten in Python with [UIFlow](https://flow.m5stack.com) a mic
 - Upload to your [M5 StickC+](https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit)
 
 	
-#### [Software Checkout and Setup With Micropython](#Software-Checkout-and-Setup-mPython)
+#### [Software Checkout and Setup with Micropython](#Software-Checkout-and-Setup-with-Micropython)
 	TODO
 	
-### [Additional Project Components & Tecniques](#additional-project-components-&-Tecniques)
+### [Additional Project Components and Tecniques](#additional-project-components-and-Tecniques)
 
 #### [ESP-NOW](#ESP-NOW)
 
