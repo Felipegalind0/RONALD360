@@ -1,6 +1,6 @@
 # RONALD360
 
-###### READMEv7.0 \ Made with ❤️ by [Felipe Galindo](https://felipegalind0.github.io)
+###### READMEv7.0 <br/> Made with ❤️ by [Felipe Galindo](https://felipegalind0.github.io)
 
 ## [Overview](#Overview)
 
