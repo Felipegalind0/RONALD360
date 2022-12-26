@@ -1,9 +1,7 @@
 # RONALD360
 
 ###### READMEv7.0
-Made with <b style=\"color: #f45;\">&lt;3</b>
-<span style="color:blue">some *blue* text</span>.
-
+Made with ❤️ by [Felipe Galindo](https://felipegalind0.github.io)
 
 ## [Overview](#Overview)
 
