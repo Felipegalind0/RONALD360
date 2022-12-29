@@ -9,7 +9,7 @@ It consists of a [M5 RoverC](https://shop.m5stack.com/collections/m5-hobby/produ
 
 [![Env](Gifs/RONALD360.gif)](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)\
 [RONALD360 3D Model](https://poly.cam/capture/DC0F4DF9-0BF0-4654-9EB7-D0CA191B5B42)\
-[RONALD360 1:1 VR Model](https://ronald360-showcase.glitch.me)\
+[RONALD360 1:1 WebVR Model](https://ronald360-showcase.glitch.me)\
 &nbsp;
 &nbsp;
 
